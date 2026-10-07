@@ -1,6 +1,4 @@
 # swe001\_
 
-
-
-hello 
+print("how are yu?")
 
